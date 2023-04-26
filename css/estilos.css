@@ -31,11 +31,12 @@ aside {
 }
 
 .galeria>div {
-    color: #fff;
+    color: #000000;
     padding: 20px;
+    background-color: #9aca40;
 }
 
 footer {
     padding: 20px 0;
-    background: #1e1e1e;
+    background: #96c6e2;
 }
